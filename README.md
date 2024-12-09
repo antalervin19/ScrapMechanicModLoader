@@ -7,7 +7,7 @@ Run the ScrapMechanicModLoader.exe, and wait.
 A window should popup, and there you should be able to install mods.
 
 # MOD-CREATION
-To make mods create a folder in the "./Downloads".
+To make mods create a folder in the `"./Downloads"`.
 In the newly created mod folder create a Mod.content file
 
 Mod.content: `{"title":"ExampleMod","description":"This is an example file mod.","author":"ExampleModAuhor","date":"2024-12-09","version":"1.0.0."}`
