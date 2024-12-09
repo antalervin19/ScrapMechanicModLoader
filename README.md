@@ -15,7 +15,6 @@ Mod.content: `{"title":"ExampleMod","description":"This is an example file mod."
 After creating the Mod.content file, you can add additional files and name then accordingly;
 
 `OriginalFileName.OriginalFileExtension.org` for the unmodified game files
-&
 `OriginalFileName.OriginalFileExtension.mod` for the modified game files
 
 Example: 
