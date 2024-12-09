@@ -19,5 +19,5 @@ OriginalFileName.OriginalFileExtension.org for the unmodified game files
 OriginalFileName.OriginalFileExtension.mod for the modified game files
 
 Example: 
-BasePlayer.lua.org
-BasePlayer.lua.mod
+`BasePlayer.lua.org`
+`BasePlayer.lua.mod`
